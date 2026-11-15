@@ -1,2 +1,2 @@
 # Yut-Nori
-Traditional Korean Game
+Traditional Korean Board Game
